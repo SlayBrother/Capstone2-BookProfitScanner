@@ -1,4 +1,4 @@
 node_modules
 
-/.env
-/config/google-credentials.json
+.env
+backend/config/google-credentials.json
